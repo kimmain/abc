@@ -1,0 +1,7 @@
+이클립스 -marketplace-spring-2번째꺼
+
+젠키스 받기전에 톰캣 코어에서 5번째꺼다운
+
+apt-tomcat-wep에 젠키스올림
+https://www.jenkins.io/download/
+generic
